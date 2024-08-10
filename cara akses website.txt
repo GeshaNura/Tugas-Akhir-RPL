@@ -1,0 +1,5 @@
+1. url menu makanan ada pada 
+./public/pages/menu.php
+
+2. dan untuk url login staf ada pada
+./public/pages/index.php
