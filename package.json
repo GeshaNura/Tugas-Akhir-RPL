@@ -1,0 +1,19 @@
+{
+  "name": "resto-unikom",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  },
+  "dependencies": {
+    "apexcharts": "^3.51.0",
+    "react-apexcharts": "^1.4.1"
+  }
+}
