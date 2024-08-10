@@ -23,10 +23,3 @@ password : pelayan
 manajer
 username : manajer
 password : manajer
-
-Alamat URL Web Hosting:
-
-Alamat URL storage source code (GitHub):
-
-Alamat URL Youtube video demonstrasi:
-
