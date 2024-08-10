@@ -1,0 +1,32 @@
+Kontribusi Kelompok:
+Akmal Salman Al’Farisi : Ketua kelompok dan Membangun backend sistem pada stakeholder koki 
+Dimas Azmi Haikal      : UI/UX designer dan Frontend developer
+Muhammad Amrullah      : Membangun backend bagian stakeholder kasir dan menu untuk pelanggan
+Ganesha Duta Hanura    : Membangun backend sistem pada stakeholder manager, dan pelayan
+Pebyusunan laporan di kerjakan oleh seluruh kelompok dengan baik.
+Disamping dengan tugas yang telah diberikan di awal pengerjaan project seluruh anggota kelompok saling membantu satu sama lain.
+
+Username dan password pengguna untuk setiap stakeholder terkait:
+
+kasir
+username : kasir
+password : kasir
+
+koki
+username : koki
+password : koki
+
+pelayan
+username : pelayan
+password : pelayan
+
+manajer
+username : manajer
+password : manajer
+
+Alamat URL Web Hosting:
+
+Alamat URL storage source code (GitHub):
+
+Alamat URL Youtube video demonstrasi:
+
